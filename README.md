@@ -13,7 +13,8 @@
 ## Sobre
 
 Projeto desenvolvido como primeiro desafio do Ignite da <a href="https://app.rocketseat.com.br/dashboard">Rocketseat</a><p>
-Base do projeto - <a href="https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react">
+
+- <a href="https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react">Base do projeto</a>
 
 ## Telas
 
